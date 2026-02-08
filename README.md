@@ -1,4 +1,4 @@
-# USB-Cellular-Modem: Obfuscated NB-IoT/Cat-M Terminal
+# USB-Cellular-Modem: NB-IoT/Cat-M Terminal
 
 ## Overview
 **USB-Cellular-Modem** is an open-hardware cellular terminal designed for to enable any device equipped with USB to interface with LTE-CAT-M1 or NB-IOT Cellular Networks. The modem is low-power enough to be used as a back-up cellular interface for any mobile device. 
