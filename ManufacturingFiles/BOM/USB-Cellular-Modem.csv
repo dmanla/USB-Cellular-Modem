@@ -1,0 +1,25 @@
+Reference,Qty,Value/Description,Footprint,Manufacturer,Part Number,Unit Price (10 Qty),Total (10 Qty)
+U2,1,Cellular Module Cat-M/NB-IoT,LCC-80 (17.6x15.7mm),SimCom,SIM7080G,$19.72,$197.20
+U3,1,eSIM IC GSMA,VFDFPN8 (2x3mm),STMicroelectronics,ST4SIM-200M,$3.00,$30.00
+U7,1,USB to UART Bridge,QFN-16 (3x3mm),WCH,CH343P,$1.03,$10.30
+U6,1,Buck Converter 1A,SOT-563,Texas Instruments,TPS62A01ADRLR,$0.13,$1.30
+"U1,U4",2,ESD Protection 2-Line,SOT-23-6,STMicroelectronics,USBLC6-2SC6,$0.24,$4.80
+D2,1,TVS Diode Array 5-Line,SOT-353 (SC-70-5),STMicroelectronics,ESDA6V1W5,$0.24,$2.40
+"C1,C18",2,470uF 6.3V Tantalum Case D,2917 (7343 Metric),Vishay / Sprague,TR3D477M6R3C0200,$1.45,$29.00
+J1,1,U.FL Connector,U.FL (SMT),Hirose,U.FL-R-SMT-1(10),$1.10,$11.00
+J3,1,USB Micro-B Connector,USB Micro-B (SMT),XKB Connectivity,U254-051T-4BH83-F1S,$0.13,$1.30
+J4,1,Nano SIM Connector Hinged,Nano-SIM (SMT),CUI Devices,NSIM-2-C,$0.55,$5.50
+SW1,1,Slide Switch SPDT,SPDT Right Angle,C&K,OS102011MA1Q,$0.54,$5.40
+F1,1,PTC Fuse 1.1A Hold,1206 (3216 Metric),Bel Fuse,0ZCJ0110FF2E,$0.22,$2.20
+L1,1,Inductor 1uH 1A,1210 (3225 Metric),Murata,LQH32CN1R0M33L,$0.08,$0.80
+"Q1,Q2,Q3",3,Digital Transistor NPN,SOT-323 (SC-70),Rohm Semiconductor,DTC143ZUA,$0.23,$6.90
+D3,1,LED Blue (NETLIGHT),0603 (1608 Metric),Lite-On,LTST-C190TBKT,$0.10,$1.00
+D4,1,LED Red (STATUS),0603 (1608 Metric),Lite-On,LTST-C190KRKT,$0.10,$1.00
+"C4,C5",2,100uF 6.3V X5R,1206 (3216 Metric),Samsung,CL31A107MQHNNNE,$0.20,$4.00
+C17,1,22uF 10V X5R,0805 (2012 Metric),Samsung,CL21A226MPQNNNE,$0.10,$1.00
+C16,1,10uF 10V X5R,0805 (2012 Metric),Samsung,CL21A106KPCLQNC,$0.05,$0.50
+"C6,C10,C13",3,1uF 16V X7R,0603 (1608 Metric),Yageo,CC0603KRX7R7BB105,$0.02,$0.60
+C11,1,100nF 16V X7R,0603 (1608 Metric),Yageo,CC0603KRX7R7BB104,$0.01,$0.10
+"C7,C8,",2,DNP,0603 (1608 Metric),N/A,N/A,$0.00,$0.00
+,,,,,,,
+,,,,,,Unit Cost (Qty: 10),$31.63
