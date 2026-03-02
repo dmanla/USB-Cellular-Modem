@@ -43,7 +43,8 @@ The core of the device is the **SIMCOM 7080G**, providing global NB-IoT and Cat-
 ---
 
 ## Front 3D Render
-<img width="596" height="678" alt="image" src="https://github.com/user-attachments/assets/1bffacc3-353c-4d65-b23e-c0424c598829" /> 
+<img width="1230" height="667" alt="image" src="https://github.com/user-attachments/assets/ceb8fb61-2d1f-4c3e-ae1b-cb51d2906498" />
+
 
 ## Back 3D Render
 <img width="630" height="702" alt="image" src="https://github.com/user-attachments/assets/8cc08f2c-f3e8-4134-b98a-daa69c0bfc44" />
